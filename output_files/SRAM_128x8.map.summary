@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Sat Sep 14 14:24:24 2024
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : SRAM_128x8
+Top-level Entity Name : SRAM_128x8
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 1024
+Total pins : 26
+Total virtual pins : 0
+Total block memory bits : 0
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0

@@ -1,0 +1,69 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'read_enable'
+Slack : -6.962
+TNS   : -52.787
+
+Type  : Slow 1100mV 85C Model Hold 'read_enable'
+Slack : 2.024
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.724
+TNS   : -1140.898
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'read_enable'
+Slack : 0.238
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'read_enable'
+Slack : -7.274
+TNS   : -54.844
+
+Type  : Slow 1100mV 0C Model Hold 'read_enable'
+Slack : 1.932
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.724
+TNS   : -1141.375
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'read_enable'
+Slack : 0.182
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'read_enable'
+Slack : -2.279
+TNS   : -16.780
+
+Type  : Fast 1100mV 85C Model Hold 'read_enable'
+Slack : 0.634
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'read_enable'
+Slack : -0.125
+TNS   : -1.012
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.093
+TNS   : -83.336
+
+Type  : Fast 1100mV 0C Model Setup 'read_enable'
+Slack : -2.057
+TNS   : -15.120
+
+Type  : Fast 1100mV 0C Model Hold 'read_enable'
+Slack : 0.608
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'read_enable'
+Slack : -0.097
+TNS   : -0.710
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.089
+TNS   : -83.546
+
+------------------------------------------------------------
